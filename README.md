@@ -1,2 +1,2 @@
-# Ai-interviewer-frontend
-This repo is for frontend
+# Ai-interviewer-backend
+This repo is for backend
